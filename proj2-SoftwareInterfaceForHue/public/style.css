@@ -1,0 +1,61 @@
+.lightSwitch {
+  background-color: #3f51b5;
+  cursor:pointer;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  color: white;
+  font-family: 'Lato';
+  font-size: 20px;
+  font-weight: 500;
+  width: 200px;
+  height: 56px;
+  border: none;
+  opacity: 0.75;
+}
+
+.lightSwitch:hover{
+  background-color: #3f51b5;
+  transition: 0.2s;
+	transition-delay: 0.1s;
+  opacity: 1;
+}
+
+.qualitySlider {
+  width: 200px;
+  background: #9c27b0;
+  height: 40px;
+  opacity: 0.7;
+  color: #9c27b0;
+
+}
+
+.qualitySlider:hover{
+
+  background-color: #9c27b0;
+  transition: 0.2s;
+  transition-delay: 0.1s;
+  opacity: 1;
+
+}
+
+.setButton {
+  background-color: #3f51b5;
+  cursor:pointer;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  color: white;
+  font-family: 'Lato';
+  font-size: 20px;
+  font-weight: 500;
+  width: 200px;
+  height: 56px;
+  border: none;
+  opacity: 0.75;
+}
+
+.setButton:hover{
+  background-color: #3f51b5;
+  transition: 0.2s;
+	transition-delay: 0.1s;
+  opacity: 1;
+}
